@@ -6,5 +6,5 @@ Long-Context Language Modeling을 위해 Attention 연산으로 참조 가능한
 * Large Memory Layers with Product Keys ([arXiv](https://arxiv.org/abs/1907.05242))
 * Generalization through Memorization: Nearest Neighbor Language Models ([arXiv](https://arxiv.org/abs/1911.00172))
 
-상세한 [Review](https://chainsmokers.oopy.io/a8eafec5-1d4b-48fc-b3cc-c845d321d871)
+상세한 [Review](https://chainsmokers.oopy.io/paper/memorizing-transformers)
 
