@@ -4,4 +4,6 @@
 :star2: :christmas_tree: 자유로운 주제 (본인 NLP 담당) & 잡담 :christmas_tree: :star2:
 ### History
 * (220415) Memorizing Transformers
+* (220424) PEGASUS
+* (220430) Text and Code Embeddings by Contrastive Pre-Training
 
