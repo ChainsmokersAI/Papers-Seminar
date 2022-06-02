@@ -7,4 +7,5 @@
 * (220424) PEGASUS
 * (220430) Text and Code Embeddings by Contrastive Pre-Training
 * (220515) Trans-Encoder
+* (2205_23/29) PaLM
 
