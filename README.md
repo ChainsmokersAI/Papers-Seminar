@@ -8,4 +8,6 @@
 * (220430) Text and Code Embeddings by Contrastive Pre-Training
 * (220515) Trans-Encoder
 * (2205_23/29) PaLM
+* (220605) DCPCSE
+* (220612) Language modeling via stochastic processes
 
